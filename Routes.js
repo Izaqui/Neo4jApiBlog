@@ -4,7 +4,6 @@ const express = require('express');
 
 const neo = require('./database');
 
-const database = require('./database');
 
 const routes = express.Router();
 
